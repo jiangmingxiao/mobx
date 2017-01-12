@@ -1,0 +1,7 @@
+.idea/
+.idea/*
+**/*.css
+**/*.DS_Store
+node_modules
+yarn-error.log
+webpack.prod.config.js
